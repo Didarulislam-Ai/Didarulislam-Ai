@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on my Profile
-- 📫 How to reach me ...
+- 📫 diderjusstin@gmail.com
 
 <!---
 Didarulislam-Ai/Didarulislam-Ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
