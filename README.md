@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Didarulislam-Ai
+- 👋 Hi, I’m @Didarulislam
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on my Profile
