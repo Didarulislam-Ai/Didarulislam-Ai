@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Didarulislam
 - 👀 I’m interested in Coding
+- Currently learing Solidity(future of finance)
 - 💞️ I’m looking to collaborate on my Profile
 - 📫 diderjusstin@gmail.com
 
